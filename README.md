@@ -1,1 +1,1 @@
-# card-boot
+# cards with image and text 
